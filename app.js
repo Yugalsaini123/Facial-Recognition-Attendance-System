@@ -9,8 +9,8 @@ const PORT = 3000;
 
 // AWS S3 configuration
 // Replace with your actual AWS credentials and bucket details
-const AWS_ACCESS_KEY_ID = 'AKIA5XES46PIXTT5EJUX';
-const AWS_SECRET_ACCESS_KEY = '7rKNQ+PlTp4/9OM3naNDqL31mCrfETSdWFW1DrhN';
+const AWS_ACCESS_KEY_ID = 'YOUR_AWS_ACCESS_KEY_ID ';
+const AWS_SECRET_ACCESS_KEY = 'YOUR_AWS_SECRET_ACCESS_KEY ';
 const AWS_REGION_NAME = 'ap-south-1';
 const S3_BUCKET_NAME = 'students-imgs';
 
